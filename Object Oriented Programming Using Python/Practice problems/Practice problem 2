@@ -38,6 +38,7 @@ Create objects of Dog class
 Invoke calculate_total_price() on Dog objects
 Display the details
 """
+
 #lex_auth_0127390295941775362719
 #Start writing you code here
 class Dog:
